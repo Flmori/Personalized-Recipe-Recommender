@@ -29,7 +29,7 @@ A web application that allows users to find, add, edit, and manage recipes. User
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Flmori/Personalized-Recipe-Recommender.git>
 ```
 
 Navigate to the backend directory and install dependencies:
@@ -164,7 +164,7 @@ Aplikasi web yang memungkinkan pengguna untuk menemukan, menambahkan, mengedit, 
 Klon repositori:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Flmori/Personalized-Recipe-Recommender.git>
 ```
 
 Navigasi ke direktori backend dan instal dependensi:
