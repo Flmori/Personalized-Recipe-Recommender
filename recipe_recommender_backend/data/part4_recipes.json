@@ -1,0 +1,78 @@
+[
+    {
+        "title": "Pempek",
+        "ingredients": [
+            "500 gr ikan tenggiri",
+            "200 gr tepung sagu",
+            "2 butir telur",
+            "1 sdt garam",
+            "air untuk merebus"
+        ],
+        "instructions": "1. Haluskan ikan dan campur dengan tepung sagu\n2. Bentuk adonan menjadi pempek\n3. Rebus hingga mengapung\n4. Sajikan dengan cuko",
+        "image": ""
+    },
+    {
+        "title": "Tekwan",
+        "ingredients": [
+            "300 gr ikan tenggiri",
+            "100 gr tepung sagu",
+            "1 liter kaldu udang",
+            "50 gr soun",
+            "2 siung bawang putih",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Buat adonan tekwan dari ikan dan tepung\n2. Rebus dalam kaldu hingga matang\n3. Tambahkan soun dan bawang goreng\n4. Sajikan panas",
+        "image": ""
+    },
+    {
+        "title": "Laksa Bogor",
+        "ingredients": [
+            "200 gr bihun",
+            "1 liter santan",
+            "200 gr tauge",
+            "3 siung bawang merah",
+            "2 siung bawang putih",
+            "1 sdt kunyit",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus santan dengan bumbu halus\n2. Masukkan bihun dan tauge\n3. Masak hingga matang\n4. Sajikan dengan pelengkap",
+        "image": ""
+    },
+    {
+        "title": "Kue Lumpur",
+        "ingredients": [
+            "200 gr tepung terigu",
+            "100 gr kentang rebus",
+            "2 butir telur",
+            "100 gr gula pasir",
+            "1 sdt vanili",
+            "100 ml santan"
+        ],
+        "instructions": "1. Campur semua bahan hingga halus\n2. Tuang ke cetakan\n3. Panggang hingga matang\n4. Sajikan hangat",
+        "image": ""
+    },
+    {
+        "title": "Klepon",
+        "ingredients": [
+            "200 gr tepung ketan",
+            "50 gr gula merah",
+            "100 ml air pandan",
+            "100 gr kelapa parut",
+            "1/2 sdt garam"
+        ],
+        "instructions": "1. Buat adonan dari tepung ketan dan air pandan\n2. Isi dengan gula merah\n3. Rebus hingga mengapung\n4. Gulingkan di kelapa parut",
+        "image": ""
+    },
+    {
+        "title": "Es Doger",
+        "ingredients": [
+            "200 gr es serut",
+            "100 gr nangka",
+            "50 gr kelapa muda",
+            "2 sdm sirup merah",
+            "1 sdt susu kental manis"
+        ],
+        "instructions": "1. Campur semua bahan dalam mangkuk\n2. Tambahkan es serut\n3. Sajikan dingin",
+        "image": ""
+    }
+]

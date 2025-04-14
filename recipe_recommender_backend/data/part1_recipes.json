@@ -1,0 +1,85 @@
+[
+    {
+        "title": "Soto Ayam",
+        "ingredients": [
+            "1 ekor ayam",
+            "2 liter air",
+            "2 batang serai",
+            "3 lembar daun jeruk",
+            "2 cm kunyit",
+            "5 siung bawang merah",
+            "3 siung bawang putih",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus ayam dengan air hingga matang\n2. Tumis bumbu halus dengan serai dan daun jeruk\n3. Masukkan bumbu tumis ke dalam rebusan ayam\n4. Masak hingga bumbu meresap",
+        "image": ""
+    },
+    {
+        "title": "Rawon",
+        "ingredients": [
+            "500 gr daging sapi",
+            "5 buah keluak",
+            "3 siung bawang putih",
+            "5 siung bawang merah",
+            "2 cm jahe",
+            "1 sdt garam",
+            "2 liter air"
+        ],
+        "instructions": "1. Rebus daging hingga empuk\n2. Haluskan bumbu dan keluak\n3. Tumis bumbu hingga harum\n4. Masukkan ke dalam rebusan daging\n5. Masak hingga kuah mengental",
+        "image": ""
+    },
+    {
+        "title": "Lontong Sayur",
+        "ingredients": [
+            "4 potong lontong",
+            "100 gr labu siam",
+            "100 gr kacang panjang",
+            "1 liter santan",
+            "3 siung bawang merah",
+            "2 siung bawang putih",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus santan dengan bumbu halus\n2. Masukkan sayuran\n3. Masak hingga sayuran empuk\n4. Sajikan dengan lontong",
+        "image": ""
+    },
+    {
+        "title": "Pindang Ikan",
+        "ingredients": [
+            "1 ekor ikan patin",
+            "2 liter air",
+            "3 buah belimbing wuluh",
+            "5 buah cabai rawit",
+            "2 cm kunyit",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus air dengan bumbu\n2. Masukkan ikan\n3. Tambahkan belimbing wuluh\n4. Masak hingga ikan matang",
+        "image": ""
+    },
+    {
+        "title": "Tahu Tek",
+        "ingredients": [
+            "5 buah tahu",
+            "2 butir telur",
+            "100 gr tauge",
+            "5 sdm bumbu kacang",
+            "1 sdt petis",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Goreng tahu dan telur\n2. Rebus tauge\n3. Campur bumbu kacang dengan petis\n4. Tata di piring dan siram dengan bumbu",
+        "image": ""
+    },
+    {
+        "title": "Opor Ayam",
+        "ingredients": [
+            "1 ekor ayam",
+            "1 liter santan",
+            "3 siung bawang putih",
+            "5 siung bawang merah",
+            "2 cm lengkuas",
+            "1 sdt ketumbar",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Tumis bumbu halus\n2. Masukkan ayam, aduk rata\n3. Tuang santan\n4. Masak dengan api kecil hingga ayam empuk",
+        "image": ""
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Sambal Matah",
+        "ingredients": [
+            "5 siung bawang merah",
+            "3 siung bawang putih",
+            "5 buah cabai rawit",
+            "1 sdt garam",
+            "1 sdt air jeruk nipis",
+            "100 ml minyak kelapa"
+        ],
+        "instructions": "1. Iris semua bahan halus\n2. Campur dengan garam dan air jeruk nipis\n3. Tambahkan minyak kelapa, aduk rata\n4. Sajikan sebagai pelengkap",
+        "image": ""
+    },
+    {
+        "title": "Bubur Ayam Betawi",
+        "ingredients": [
+            "200 gr beras",
+            "1 ekor ayam, direbus",
+            "2 liter air",
+            "3 siung bawang putih",
+            "2 sdm kecap manis",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus beras dengan air hingga menjadi bubur\n2. Sajikan dengan ayam suwir dan kecap",
+        "image": ""
+    },
+    {
+        "title": "Kue Lapis",
+        "ingredients": [
+            "200 gr tepung terigu",
+            "200 ml santan",
+            "100 gr gula pasir",
+            "1 sdt vanili",
+            "1/2 sdt pewarna makanan"
+        ],
+        "instructions": "1. Campur semua bahan hingga halus\n2. Tuang ke cetakan secara bergantian\n3. Kukus hingga matang",
+        "image": ""
+    },
+    {
+        "title": "Sop Ikan",
+        "ingredients": [
+            "500 gr ikan kakap",
+            "2 liter air",
+            "3 siung bawang putih",
+            "2 cm jahe",
+            "1 sdt garam",
+            "1 sdt merica"
+        ],
+        "instructions": "1. Rebus air dengan bumbu\n2. Masukkan ikan dan masak hingga matang\n3. Sajikan dengan perasan jeruk nipis",
+        "image": ""
+    },
+    {
+        "title": "Kue Cubir",
+        "ingredients": [
+            "200 gr tepung terigu",
+            "100 gr gula pasir",
+            "2 butir telur",
+            "100 ml air",
+            "1 sdt vanili"
+        ],
+        "instructions": "1. Campur semua bahan hingga halus\n2. Tuang ke cetakan\n3. Kukus hingga matang",
+        "image": ""
+    },
+    {
+        "title": "Es Teler",
+        "ingredients": [
+            "200 gr es serut",
+            "100 gr buah-buahan (nangka, kelapa, dan alpukat)",
+            "2 sdm sirup",
+            "1 sdt susu kental manis"
+        ],
+        "instructions": "1. Campur semua bahan dalam mangkuk\n2. Tambahkan es serut di atasnya\n3. Sajikan dingin",
+        "image": ""
+    }
+]

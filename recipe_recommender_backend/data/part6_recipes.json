@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Nasi Kuning",
+        "ingredients": [
+            "2 cup beras",
+            "1 liter santan",
+            "2 sdt kunyit",
+            "1 sdt garam",
+            "1 batang serai",
+            "2 lembar daun pandan"
+        ],
+        "instructions": "1. Cuci beras hingga bersih\n2. Campur semua bahan dan masak hingga matang\n3. Sajikan dengan lauk-pauk",
+        "image": ""
+    },
+    {
+        "title": "Ayam Bakar Taliwang",
+        "ingredients": [
+            "1 ekor ayam",
+            "5 siung bawang merah",
+            "3 siung bawang putih",
+            "5 buah cabai merah",
+            "1 sdt terasi",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Haluskan bumbu dan lumuri ayam\n2. Diamkan selama 30 menit\n3. Bakar hingga matang",
+        "image": ""
+    },
+    {
+        "title": "Karedok",
+        "ingredients": [
+            "100 gr sayuran segar (kacang panjang, tauge, kol)",
+            "5 sdm bumbu kacang",
+            "1 sdt air jeruk nipis"
+        ],
+        "instructions": "1. Campur sayuran dengan bumbu kacang\n2. Tambahkan air jeruk nipis\n3. Sajikan segar",
+        "image": ""
+    },
+    {
+        "title": "Bubur Ketan Hitam",
+        "ingredients": [
+            "200 gr ketan hitam",
+            "1 liter air",
+            "200 ml santan",
+            "100 gr gula merah",
+            "1/2 sdt garam"
+        ],
+        "instructions": "1. Rebus ketan hitam hingga empuk\n2. Campur dengan santan dan gula\n3. Sajikan hangat",
+        "image": ""
+    },
+    {
+        "title": "Kue Cubir",
+        "ingredients": [
+            "200 gr tepung terigu",
+            "100 gr gula pasir",
+            "2 butir telur",
+            "100 ml air",
+            "1 sdt vanili"
+        ],
+        "instructions": "1. Campur semua bahan hingga halus\n2. Tuang ke cetakan\n3. Kukus hingga matang",
+        "image": ""
+    },
+    {
+        "title": "Cendol",
+        "ingredients": [
+            "200 gr tepung beras",
+            "100 gr daun pandan",
+            "1 liter air",
+            "200 ml santan",
+            "100 gr gula merah"
+        ],
+        "instructions": "1. Campur tepung beras dengan air dan daun pandan\n2. Masak hingga mengental\n3. Sajikan dengan santan dan gula merah",
+        "image": ""
+    }
+]

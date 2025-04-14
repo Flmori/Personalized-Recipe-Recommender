@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Nasi Goreng Spesial",
+        "ingredients": [
+            "2 piring nasi putih",
+            "2 butir telur",
+            "3 siung bawang putih",
+            "5 buah cabai merah",
+            "1 sdm kecap manis",
+            "1 sdt garam",
+            "1/2 sdt merica",
+            "2 sdm minyak goreng"
+        ],
+        "instructions": "1. Tumis bawang putih dan cabai hingga harum\n2. Masukkan telur, orak-arik\n3. Tambahkan nasi, aduk rata\n4. Beri kecap, garam, dan merica\n5. Masak hingga matang",
+        "image": ""
+    },
+    {
+        "title": "Soto Ayam Lamongan",
+        "ingredients": [
+            "1/2 ekor ayam",
+            "2 liter air",
+            "3 lembar daun jeruk",
+            "2 batang serai",
+            "1 sdt kunyit bubuk",
+            "3 siung bawang putih",
+            "5 siung bawang merah",
+            "1 sdt ketumbar",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus ayam hingga matang\n2. Haluskan bumbu, tumis hingga harum\n3. Masukkan bumbu ke dalam rebusan ayam\n4. Tambahkan daun jeruk dan serai\n5. Masak hingga bumbu meresap",
+        "image": ""
+    },
+    {
+        "title": "Gado-Gado",
+        "ingredients": [
+            "100 gr kangkung",
+            "100 gr tauge",
+            "2 buah timun",
+            "2 buah tahu",
+            "2 buah tempe",
+            "2 butir telur rebus",
+            "100 gr bumbu kacang",
+            "1 sdm kecap manis"
+        ],
+        "instructions": "1. Rebus semua sayuran\n2. Goreng tahu dan tempe\n3. Tata di piring, siram dengan bumbu kacang\n4. Tambahkan kecap manis",
+        "image": ""
+    }
+]

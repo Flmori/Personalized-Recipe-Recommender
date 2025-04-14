@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Gudeg",
+        "ingredients": [
+            "1 kg nangka muda",
+            "1 liter santan",
+            "5 butir telur",
+            "200 gr ayam",
+            "5 siung bawang merah",
+            "3 siung bawang putih",
+            "2 cm lengkuas",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus nangka hingga empuk\n2. Tumis bumbu halus\n3. Masukkan nangka dan santan\n4. Masak dengan api kecil hingga kuah mengental",
+        "image": ""
+    },
+    {
+        "title": "Pecel Lele",
+        "ingredients": [
+            "3 ekor lele",
+            "5 siung bawang putih",
+            "2 cm kunyit",
+            "1 sdt ketumbar",
+            "1 sdt garam",
+            "minyak goreng"
+        ],
+        "instructions": "1. Lumuri lele dengan bumbu halus\n2. Diamkan 30 menit\n3. Goreng hingga kecoklatan\n4. Sajikan dengan sambal",
+        "image": ""
+    },
+    {
+        "title": "Ketoprak",
+        "ingredients": [
+            "200 gr bihun",
+            "100 gr tahu",
+            "100 gr tauge",
+            "5 sdm bumbu kacang",
+            "1 sdt kecap manis",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus bihun dan tauge\n2. Goreng tahu\n3. Campur bumbu kacang dengan kecap\n4. Tata di piring dan siram dengan bumbu",
+        "image": ""
+    },
+    {
+        "title": "Sate Madura",
+        "ingredients": [
+            "500 gr daging ayam",
+            "5 sdm kecap manis",
+            "3 siung bawang putih",
+            "1 sdt ketumbar",
+            "1 sdt garam",
+            "tusuk sate"
+        ],
+        "instructions": "1. Potong dadu daging ayam\n2. Lumuri dengan bumbu halus\n3. Tusuk dengan tusuk sate\n4. Bakar hingga matang",
+        "image": ""
+    },
+    {
+        "title": "Nasi Liwet",
+        "ingredients": [
+            "2 cup beras",
+            "400 ml santan",
+            "3 siung bawang merah",
+            "2 siung bawang putih",
+            "2 lembar daun salam",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Tumis bawang dan daun salam\n2. Masukkan beras dan santan\n3. Masak seperti nasi biasa\n4. Aduk rata sebelum disajikan",
+        "image": ""
+    },
+    {
+        "title": "Serundeng",
+        "ingredients": [
+            "200 gr kelapa parut",
+            "3 siung bawang merah",
+            "2 siung bawang putih",
+            "1 sdt ketumbar",
+            "1 sdt gula merah",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Sangrai kelapa hingga kecoklatan\n2. Tumis bumbu halus\n3. Campur dengan kelapa sangrai\n4. Aduk hingga rata",
+        "image": ""
+    }
+]

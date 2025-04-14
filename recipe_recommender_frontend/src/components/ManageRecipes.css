@@ -1,0 +1,86 @@
+.manage-recipes {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.add-button {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.add-button:hover {
+  background-color: #45a049;
+}
+
+.recipe-table {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.table-header {
+  display: grid;
+  grid-template-columns: 1fr 150px;
+  background-color: #f2f2f2;
+  padding: 12px 15px;
+  font-weight: bold;
+}
+
+.table-row {
+  display: grid;
+  grid-template-columns: 1fr 150px;
+  padding: 12px 15px;
+  border-bottom: 1px solid #ddd;
+  align-items: center;
+}
+
+.table-row:last-child {
+  border-bottom: none;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+}
+
+.edit-button {
+  padding: 5px 10px;
+  background-color: #2196F3;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.edit-button:hover {
+  background-color: #0b7dda;
+}
+
+.delete-button {
+  padding: 5px 10px;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: #da190b;
+}
+
+.loading {
+  padding: 20px;
+  text-align: center;
+}
+
+.error {
+  padding: 20px;
+  color: #f44336;
+  text-align: center;
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Ayam Penyet",
+        "ingredients": [
+            "1 ekor ayam",
+            "5 siung bawang putih",
+            "3 buah cabai merah",
+            "1 sdt garam",
+            "minyak goreng"
+        ],
+        "instructions": "1. Lumuri ayam dengan bumbu halus\n2. Goreng hingga kecoklatan\n3. Patahkan ayam dan sajikan dengan sambal",
+        "image": ""
+    },
+    {
+        "title": "Bubur Ayam",
+        "ingredients": [
+            "200 gr beras",
+            "1 ekor ayam, direbus",
+            "2 liter air",
+            "3 siung bawang putih",
+            "2 sdm kecap manis",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus beras dengan air hingga menjadi bubur\n2. Sajikan dengan ayam suwir dan kecap",
+        "image": ""
+    },
+    {
+        "title": "Kwetiau Goreng",
+        "ingredients": [
+            "200 gr kwetiau",
+            "100 gr daging sapi, potong tipis",
+            "2 butir telur",
+            "3 siung bawang putih",
+            "1 sdt kecap manis",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Tumis bawang putih hingga harum\n2. Masukkan daging dan telur, aduk rata\n3. Tambahkan kwetiau dan kecap, masak hingga matang",
+        "image": ""
+    },
+    {
+        "title": "Cumi Goreng Tepung",
+        "ingredients": [
+            "500 gr cumi",
+            "100 gr tepung terigu",
+            "2 butir telur",
+            "1 sdt garam",
+            "minyak goreng"
+        ],
+        "instructions": "1. Lumuri cumi dengan garam dan tepung\n2. Celupkan ke dalam telur\n3. Goreng hingga kecoklatan",
+        "image": ""
+    },
+    {
+        "title": "Roti Bakar",
+        "ingredients": [
+            "4 lembar roti",
+            "2 sdm margarin",
+            "4 sdm selai coklat",
+            "1 sdt gula"
+        ],
+        "instructions": "1. Olesi roti dengan margarin dan selai\n2. Panggang hingga kecoklatan\n3. Sajikan dengan taburan gula",
+        "image": ""
+    },
+    {
+        "title": "Es Campur",
+        "ingredients": [
+            "200 gr es serut",
+            "100 gr buah-buahan (nanas, melon, dan kelapa)",
+            "2 sdm sirup",
+            "1 sdt susu kental manis"
+        ],
+        "instructions": "1. Campur semua bahan dalam mangkuk\n2. Sajikan dengan es serut di atasnya",
+        "image": ""
+    }
+]

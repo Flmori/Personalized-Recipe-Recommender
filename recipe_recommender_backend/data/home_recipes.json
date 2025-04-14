@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Rendang Daging",
+        "ingredients": [
+            "500 gr daging sapi",
+            "1 liter santan",
+            "5 siung bawang merah",
+            "3 siung bawang putih",
+            "5 buah cabai merah",
+            "2 cm kunyit",
+            "2 cm jahe",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Haluskan bumbu\n2. Tumis bumbu hingga harum\n3. Masukkan daging, aduk rata\n4. Tuang santan, masak dengan api kecil hingga empuk dan kuah mengental",
+        "image": ""
+    },
+    {
+        "title": "Sayur Asem",
+        "ingredients": [
+            "100 gr kacang tanah",
+            "1 buah labu siam",
+            "2 buah kacang panjang",
+            "2 buah jagung",
+            "2 liter air",
+            "3 siung bawang merah",
+            "2 siung bawang putih",
+            "1 sdt asam jawa",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus air hingga mendidih\n2. Masukkan kacang tanah, masak 10 menit\n3. Tambahkan sayuran dan bumbu\n4. Masak hingga sayuran empuk",
+        "image": ""
+    },
+    {
+        "title": "Ayam Goreng Kalasan",
+        "ingredients": [
+            "1 ekor ayam",
+            "5 siung bawang putih",
+            "3 cm lengkuas",
+            "2 lembar daun salam",
+            "1 sdt ketumbar",
+            "1 sdt garam",
+            "500 ml air kelapa"
+        ],
+        "instructions": "1. Haluskan bumbu\n2. Lumuri ayam dengan bumbu\n3. Rebus dalam air kelapa hingga empuk\n4. Goreng hingga kecoklatan",
+        "image": ""
+    },
+    {
+        "title": "Tumis Kangkung",
+        "ingredients": [
+            "2 ikat kangkung",
+            "3 siung bawang putih",
+            "5 buah cabai rawit",
+            "1 sdt terasi",
+            "1 sdt garam",
+            "2 sdm minyak goreng"
+        ],
+        "instructions": "1. Tumis bawang putih dan cabai\n2. Masukkan terasi, aduk rata\n3. Tambahkan kangkung, aduk cepat\n4. Beri garam, masak hingga layu",
+        "image": ""
+    },
+    {
+        "title": "Sop Buntut",
+        "ingredients": [
+            "1 kg buntut sapi",
+            "2 liter air",
+            "3 buah wortel",
+            "2 buah kentang",
+            "5 siung bawang putih",
+            "1 sdt pala bubuk",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus buntut hingga empuk\n2. Tumis bawang putih hingga harum\n3. Masukkan ke dalam rebusan buntut\n4. Tambahkan sayuran dan bumbu\n5. Masak hingga sayuran matang",
+        "image": ""
+    },
+    {
+        "title": "Pepes Ikan",
+        "ingredients": [
+            "1 ekor ikan mas",
+            "5 lembar daun pisang",
+            "3 siung bawang putih",
+            "5 buah cabai rawit",
+            "1 ruas kunyit",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Haluskan bumbu\n2. Lumuri ikan dengan bumbu\n3. Bungkus dengan daun pisang\n4. Kukus selama 30 menit",
+        "image": ""
+    }
+]

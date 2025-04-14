@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Rujak Cingur",
+        "ingredients": [
+            "200 gr cingur (hidung sapi)",
+            "100 gr kangkung",
+            "100 gr tauge", 
+            "100 gr timun",
+            "5 sdm bumbu rujak",
+            "1 sdt petis udang"
+        ],
+        "instructions": "1. Rebus cingur hingga empuk\n2. Potong semua sayuran\n3. Campur dengan bumbu rujak dan petis\n4. Sajikan dengan kerupuk",
+        "image": ""
+    },
+    {
+        "title": "Soto Banjar",
+        "ingredients": [
+            "1 ekor ayam",
+            "2 liter air",
+            "3 butir telur",
+            "100 gr soun",
+            "5 siung bawang putih",
+            "2 sdt jintan",
+            "1 sdt pala",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus ayam dengan bumbu halus\n2. Tambahkan telur dan soun\n3. Masak hingga matang\n4. Sajikan dengan perkedel",
+        "image": ""
+    },
+    {
+        "title": "Pallubasa",
+        "ingredients": [
+            "500 gr daging sapi",
+            "1 liter santan",
+            "5 siung bawang merah",
+            "3 siung bawang putih",
+            "2 cm kunyit",
+            "1 sdt jintan",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Tumis bumbu halus\n2. Masukkan daging dan santan\n3. Masak hingga daging empuk\n4. Sajikan dengan bawang goreng",
+        "image": ""
+    },
+    {
+        "title": "Bubur Manado",
+        "ingredients": [
+            "200 gr beras",
+            "1 liter air",
+            "100 gr labu kuning",
+            "100 gr jagung",
+            "50 gr daun kemangi",
+            "3 siung bawang putih",
+            "1 sdt garam"
+        ],
+        "instructions": "1. Rebus beras dengan air\n2. Masukkan sayuran dan bumbu\n3. Masak hingga menjadi bubur\n4. Sajikan dengan ikan asin",
+        "image": ""
+    },
+    {
+        "title": "Pisang Ijo",
+        "ingredients": [
+            "5 buah pisang raja",
+            "200 gr tepung beras",
+            "100 ml santan",
+            "50 gr gula merah",
+            "daun pandan",
+            "1/2 sdt garam"
+        ],
+        "instructions": "1. Bungkus pisang dengan adonan tepung\n2. Kukus hingga matang\n3. Sajikan dengan saus santan dan gula merah",
+        "image": ""
+    },
+    {
+        "title": "Es Pisang Ijo",
+        "ingredients": [
+            "5 buah pisang ijo",
+            "200 gr es serut",
+            "100 ml sirup merah",
+            "50 ml santan",
+            "1 sdt susu kental manis"
+        ],
+        "instructions": "1. Potong pisang ijo\n2. Campur dengan es serut\n3. Tuang sirup dan santan\n4. Sajikan dingin",
+        "image": ""
+    }
+]
