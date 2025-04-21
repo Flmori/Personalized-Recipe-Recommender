@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-)8=vu*&l*eeu14ab$=v1iz5y_bb@m2g71pdj6b*$=0_3u$6d72
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '*']  # Added wildcard for dev tunnel access
 
 # CORS settings
 INSTALLED_APPS = [
@@ -52,7 +52,10 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # Adjust this if your frontend runs on a different port
+    "https://j3h2mz53-3000.asse.devtunnels.ms"  # Added dev tunnel frontend URL
 ]
+
+CORS_ALLOW_ALL_ORIGINS = True
 
 # Media files settings
 MEDIA_URL = '/media/'
